@@ -15,7 +15,7 @@ An end-to-end Machine Learning system that predicts loan approval outcomes for b
 **Task:** Binary Classification → Loan Approved (Y) / Rejected (N)  
 **Dataset:** [Kaggle Loan Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset) (614 records, 13 features)
 ## Live Demo
-https://sonalpriyanshi529-loanapprovalpredictio-streamlit-appapp-7g07t0.streamlit.app/
+https://raghavmishraloanapprovalprediction.streamlit.app/
 ---
 
 ## 🗂️ Project Structure
